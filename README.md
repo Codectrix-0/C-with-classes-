@@ -5,7 +5,7 @@ A collection of C++ code snippets, projects, and experiments
   
 This repository serves as a live documentation of my progress in learning C++ and Object-Oriented Programming (OOP). I am building this as part of my computer science curriculum, moving from basic procedural logic to advanced class-based structures.
 
-📂 Project Structure 
+📂 Working Structure 
   
 
  1. Fundamentals & Control Logic 
