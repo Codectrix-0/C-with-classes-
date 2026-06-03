@@ -1,4 +1,4 @@
-# Code-C++
+# CODE-C++
 A collection of C++ code snippets, projects, and experiments
 
 🚀 C-with-classes (Academic Journey):)- 
