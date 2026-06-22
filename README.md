@@ -1,42 +1,110 @@
-# CODE-C++ 
-A collection of C++ code snippets, projects, and experiments
+<h1 align="center">🚀 C++ with Classes</h1>
 
-🚀 C-with-classes (Academic Journey):)- 
-  
-This repository serves as a live documentation of my progress in learning C++ and Object-Oriented Programming (OOP). I am building this as part of my computer science curriculum, moving from basic procedural logic to advanced class-based structures.
+<p align="center">
+  A collection of C++ programs covering fundamentals, functions, classes, arrays, file handling, and object-oriented programming concepts.
+</p>
 
-📂 Working Structure 
-  
+---
 
- 1. Fundamentals & Control Logic 
-Basic programs that use tokens, identifiers, and control structures like if-else, switch, and loops.
-  
-  
- 2. Functional Programming 
-Programs focused on code reusability using functions and local/global variables.
-  
+## 📌 About
 
- 3. Transition to OOP (Classes & Objects) 
- My latest work where I implement core OOP concepts like Encapsulation, Data Hiding, and Inheritance.
+This repository contains my C++ learning journey.  
+Here, I practice and implement various concepts of C++ including:
 
-  
- Examples: 
+- 🔹 Functions
+- 🔹 Classes & Objects
+- 🔹 Arrays
+- 🔹 Inline Functions
+- 🔹 File Handling
+- 🔹 Operator Overloading
+- 🔹 Matrix Operations
+- 🔹 Mini Programs
+- 🔹 Problem Solving
 
-  
- Bankdetails_usingfunction.cpp,
+---
 
- Studentinfo_function.cpp.
+## 📂 Repository Structure
 
-📝 Concepts Implemented 
-  
-I am currently covering the following syllabus topics: 
+```text
+C-with-classes-
+│
+├── Area_usingfunction.cpp
+├── Bankdetails_usingfunction.cpp
+├── Calculator.cpp
+├── Demonstrate.cpp
+├── Multiply_using_Inline().cpp
+├── Studentinfo_function.cpp
+├── Transpose_Matrix.cpp
+├── add&sub2num.cpp
+├── avg2num.cpp
+├── delete_value_array.cpp
+├── demonstrate_using_difflut.cpp
+├── filehandling.cpp
+├── max_number.cpp
+├── sum.cpp
+├── swap.cpp
+└── unaryop_overloaded.cpp
+```
 
-  
-Encapsulation: Wrapping data and functions into classes.
+---
 
-Abstraction: Hiding complex implementation details.
+## 🛠 Topics Covered
 
-Data Hiding: Using private access specifiers for security.
+### 📖 Functions
 
-Control Structures: Mastered while, do-while, for, break, and continue.
+- Area using Functions
+- Bank Details using Functions
+- Student Information using Functions
+- Sum of Numbers
+- Add & Subtract Two Numbers
 
+### 🏛 Classes & Objects
+
+- Demonstrate Class
+- Different Class Examples
+- Unary Operator Overloading
+
+### 📊 Arrays & Matrix
+
+- Delete Value from Array
+- Maximum Number in Array
+- Transpose Matrix
+
+### ⚡ Inline Functions
+
+- Multiplication using Inline Function
+
+### 📁 File Handling
+
+- Reading and Writing Files
+- Basic File Operations
+
+### 🧮 Mini Projects
+
+- Calculator Program
+
+---
+
+## 🎯 Purpose of this Repository
+
+This repository is created to:
+
+✅ Practice C++ concepts  
+✅ Strengthen Object-Oriented Programming skills  
+✅ Prepare for coding interviews and placements  
+✅ Track my learning journey on GitHub
+
+---
+
+## 👨‍💻 Author
+
+**Divya Mer**
+
+- 🎓 BCA Student
+- 💻 Learning C, C++ & DSA
+- 🚀 Open Source Enthusiast
+- 🌱 Always learning new things
+
+---
+
+### ⭐ If you find this repository useful, consider giving it a star!
